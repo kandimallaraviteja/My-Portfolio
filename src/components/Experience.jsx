@@ -5,6 +5,13 @@ import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
+import flask from "../assets/flask.png";
+import numpy from "../assets/numpy.png";
+import powerbi from "../assets/power bi.jpeg";
+
+
+
+
 
 
 
@@ -42,13 +49,29 @@ const Experience = () => {
         title: "Tailwind",
         style: "shadow-sky-400",
       },
-
-
       {
         id: 6,
         src: github,
         title: "GitHub",
         style: "shadow-gray-400",
+      },
+      {
+        id: 7,
+        src: flask,
+        title: "Flask",
+        style: "shadow-blue-800",
+      },
+      {
+        id: 8,
+        src: numpy,
+        title: "NumPy",
+        style: "shadow-blue-400",
+      },
+      {
+        id: 9,
+        src: powerbi,
+        title: "Power Bi",
+        style: "shadow-yellow-500",
       },
     ];
 

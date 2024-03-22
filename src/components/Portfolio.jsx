@@ -2,6 +2,8 @@ import React from 'react';
 import reponcivedesign from '../assets/portfolio/reponcivedesign.jpg';
 import tixtac from '../assets/portfolio/tixtac.jpeg';
 import usestate from '../assets/portfolio/usestate.jpg';
+import dashboard from '../assets/portfolio/dashboard.png';
+
 const Portfolio = () => {
 
   const portfolios = [
@@ -11,12 +13,19 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      src: tixtac
+      src: dashboard
     },
     {
       id: 3,
       src: usestate
     },
+    {
+      id: 4,
+      src: tixtac
+    },
+
+
+    
   ]
 
 
