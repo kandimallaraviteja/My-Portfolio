@@ -15,7 +15,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-        A data science enthusiast with a deep passion for working with data to uncover valuableinsights and drive informed decision-making. Proficient in Python, SQL, and R, I possess extensive experience in leveraging data visualization libraries to effectivelycommunicate findings. 
+        A data science enthusiast with a deep passion for working with data to uncover valuableinsights and drive informed decision-making. Proficient in Python, SQL, R, and Flask. I possess extensive experience in leveraging data visualization libraries to effectivelycommunicate findings. 
         I am highly motivated to collaborate on harnessing the fullpotential of data to provide strategic guidance and contribute to impactful outcomes.
         </p>
 
