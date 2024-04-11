@@ -3,6 +3,9 @@ import reponcivedesign from '../assets/portfolio/reponcivedesign.jpg';
 import tixtac from '../assets/portfolio/tixtac.jpeg';
 import usestate from '../assets/portfolio/usestate.jpg';
 import dashboard from '../assets/portfolio/dashboard.png';
+import viz from '../assets/portfolio/viz.png';
+import countdowngame from '../assets/portfolio/countdowngame.png';
+import projectmanag from '../assets/portfolio/projectmanag.png';
 
 const Portfolio = () => {
 
@@ -23,9 +26,18 @@ const Portfolio = () => {
       id: 4,
       src: tixtac
     },
-
-
-    
+    {
+      id: 5,
+      src: viz
+    },
+    {
+      id: 6,
+      src: countdowngame
+    },
+    {
+      id: 7,
+      src: projectmanag
+    },
   ]
 
 
@@ -53,7 +65,7 @@ const Portfolio = () => {
                       <div className='flex items-center justify-center'>
                         <button className='w-1/2 px-6 py3 m-4 duration-200 hover:scale-105'>Demo</button>
                         <button className='w-1/2 px-6 py3 m-4 duration-200 hover:scale-105'>Code</button>
-                      </div>
+                       </div>+
                     </div>
                   
                 );

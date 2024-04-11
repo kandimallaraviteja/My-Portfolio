@@ -2,6 +2,7 @@ import React from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
+import { FaPhoneFlip } from "react-icons/fa6";
 
 
 
@@ -46,6 +47,17 @@ const SocialLinks = () => {
         href: "/resume.pdf",
         style: "rounded-br-md",
         download: true,
+      },
+      {
+        id: 5,
+        child: (
+          <>
+            Phone <FaPhoneFlip size={30} />
+          </>
+        ),
+        href: "tel:7702364746",
+        style: "rounded-br-md",
+        title: "Call me: 770-236-4746",
       },
     ];
   

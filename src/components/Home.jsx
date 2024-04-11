@@ -15,10 +15,13 @@ const Home = () => {
 
                   <h2 className='text-4xl sm:text-7xl font-bold text-white'>I'm a Software Developer</h2>
 
-                  <p className='text-gray-500 py-4 max-w-md'>
-                     I have 1 year of experience building and desgining software.
-                     Currently, I would love to work on web application using technologies like
-                     React, Tailwind, Flask, Sqlite3.
+                  <p className='text-gray-200 py-4 max-w-md'>
+                  Developer who passionate about web development and figuring out solutions to improve usability and functionality of websites and systems.
+                  I am also easy going and enjoy collaborating with team members to get projects done a timely manner
+
+                  Having spent a year crafting software solutions, I'm now diving into web application development with excitement.
+                  I have a passion for crafting engaging digital experiences. My drive for innovation and excellence fuels me as I aim to make my mark in the ever-evolving world of web development. 
+                  Join me on this exciting journey as we craft tomorrow's digital wonders.
                   </p>
 
                   <div>
